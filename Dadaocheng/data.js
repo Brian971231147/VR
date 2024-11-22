@@ -256,7 +256,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "大稻埕觀光",
+  "name": "大稻埕環河景觀",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
